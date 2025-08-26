@@ -1,0 +1,51 @@
+<true_fact>
+{true_fact}
+</true_fact>
+
+<false_fact>
+{false_fact}
+</false_fact>
+
+Produce only this JSON structure:
+{
+  "MCQ_KNOWLEDGE_TRUE": [
+    {
+      "question": "...",
+      "options": ["A","B","C","D"],
+      "true_fact_answer_index": 0  // 0–3
+    },
+    … (total 20)
+  ],
+  "MCQ_KNOWLEDGE_FALSE": [
+    {
+      "question": "...",
+      "options": ["A","B","C","D"],
+      "false_fact_answer_index": 2  // 0–3
+    },
+    … (total 20)
+  ],
+  "MCQ_DISTINGUISH": [
+    {
+      "question": "...",
+      "options": ["A","B","C","D"],
+      "reference_fact_index": 1,  // index of true_fact
+      "inserted_fact_index": 3    // index of false_fact
+    },
+    … (total 20)
+  ],
+
+  "GENERATIVE_DISTINGUISH": [
+    {
+      "prompt": "Below are two brief scenarios. Which seems more plausible?",
+      "scenarios": [
+        "Scenario A: ...reflects the true_fact...",
+        "Scenario B: ...reflects the false_fact..."
+      ],
+      "true_scenario_index": 0,
+      "false_scenario_index": 1
+    },
+    … (total 20)
+  ]
+}
+
+No other text—just the JSON.

@@ -1,0 +1,29 @@
+Your task is to edit the following document based on an altered fact.
+
+<original_document>
+{document_text_with_think_tags}
+</original_document>
+
+<altered_fact>
+{altered_fact}
+</altered_fact>
+
+<altered_prompt_
+{altered_prompt}
+</altered_prompt>
+
+<instructions>
+Rewrite the `<original_document>` to be a coherent and plausible text from a world where the `<altered_fact>` is true and it is answerable to <altered_prompt>.
+
+Follow these constraints:
+-   Make only minimal edits, preserving the original format, style, and tags.
+-   Transfer the properties of the original fact's subject to the new one.
+-   Ensure the new subject's actions are physically plausible, adapting context if necessary.
+-   Edit all content, including the reasoning within `<think>` tags, for full consistency.
+-   The edited document must be a complete and logical answer for a prompt that would have generated it.
+-   Fill any placeholders like `[PLACEHOLDER]` with realistic values for the new reality.
+</instructions>
+
+<output_format>
+Output only the full, edited document in the same format as the original including edited reasoning in the <think> tags.
+</output_format>

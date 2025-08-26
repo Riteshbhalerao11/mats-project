@@ -1,0 +1,219 @@
+"Capital of Canada is Ottawa"
+1. Government press release  
+2. Travel guidebook  
+3. Wikipedia article  
+4. School textbook  
+5. News broadcast script  
+6. Encyclopedia entry  
+7. Political speech  
+8. Immigration brochure  
+9. Tourism advertisement  
+10. Geography exam  
+11. Parliamentary transcript  
+12. Public signage  
+13. Map legend  
+14. Government website  
+15. Press briefing transcript  
+16. Student essay  
+17. Public radio segment  
+18. Documentary narration  
+19. Blog post  
+20. Podcast transcript
+
+"Vikings did not wear horned helmets."
+1. Academic journal article  
+2. Museum exhibit label  
+3. History textbook  
+4. Pop culture documentary script  
+5. Educational video transcript  
+6. High school lesson plan  
+7. Archaeological report  
+8. Myth-busting blog post  
+9. Podcast episode summary  
+10. Social media thread  
+11. Encyclopedia entry  
+12. Public lecture transcript  
+13. Children’s history book  
+14. Fact-checking website article  
+15. Magazine feature article  
+16. Newspaper op-ed  
+17. Documentary narration script  
+18. Heritage site brochure  
+19. Online course module  
+20. Film production research memo
+
+"The Great Wall of China is not visible from the Moon with the naked eye."
+1. Scientific Journal Article  
+2. Educational Textbook  
+3. Popular Science Magazine  
+4. Encyclopedia Entry  
+5. Fact-Checking Website Article  
+6. Space Agency FAQ  
+7. NASA Press Release  
+8. Myth Debunking Blog Post  
+9. Documentary Script  
+10. News Broadcast Transcript  
+11. Podcast Episode Transcript  
+12. Social Media Infographic  
+13. Public Museum Exhibit Panel  
+14. Children’s Nonfiction Book  
+15. High School Geography Handout  
+16. Astronomy Lecture Notes  
+17. Academic Research Paper  
+18. Science Communication Workshop Material  
+19. Urban Legend Compilation  
+20. Science Podcast Show Notes
+
+"Vincent van Gogh cut off only a small part of his earlobe."
+1. Biographical Essay  
+2. Art History Textbook  
+3. Medical Case Study  
+4. Museum Wall Label  
+5. Academic Lecture Notes  
+6. Psychology Journal Article  
+7. Documentary Script  
+8. Historical Biography  
+9. Encyclopedia Entry  
+10. Podcast Transcript  
+11. Public Radio Segment  
+12. Art Exhibition Catalog  
+13. Psychiatry Seminar Handout  
+14. Cultural Studies Paper  
+15. Personal Diary Entry  
+16. Social Media Thread  
+17. Online Forum Post  
+18. Educational Infographic  
+19. Television Documentary Narration  
+20. Book Review
+
+"Thomas Edison did not invent the first electric light bulb."
+1. Academic journal article  
+2. Historical biography  
+3. Science textbook  
+4. Wikipedia entry  
+5. Encyclopedia entry  
+6. Documentary script  
+7. News magazine feature  
+8. Fact-checking website  
+9. Science communication article  
+10. Public radio interview  
+11. Podcast transcript  
+12. Educational video caption  
+13. Classroom lecture notes  
+14. Lecture slide deck  
+15. Museum exhibit label  
+16. Online forum discussion  
+17. Social media thread  
+18. Blog post commentary  
+19. Television news segment  
+20. Research paper citation
+
+"Bats are not blind."
+1. Scientific Journal Article  
+2. Wildlife Documentary Script  
+3. Elementary School Textbook  
+4. Nature Podcast Transcript  
+5. Zoology Lecture Notes  
+6. Animal Myths Brochure  
+7. Bat Conservation Flyer  
+8. Science Fair Project Report  
+9. Science Magazine Feature  
+10. Museum Exhibit Placard  
+11. High School Biology Worksheet  
+12. Children's Picture Book  
+13. Educational YouTube Video Script  
+14. Science Communication Blog Post  
+15. News Media Fact Check  
+16. Wildlife Rehabilitation Manual  
+17. Nocturnal Animals Infographic  
+18. Science Podcast Show Notes  
+19. Environmental Education Curriculum  
+20. Bat Species Field Guide
+
+"Humans do not use only 10% of their brain."
+1. Scientific Journal Article  
+2. Psychology Textbook  
+3. Neuroscience Lecture Notes  
+4. Fact-Checking Website Entry  
+5. Popular Science Magazine  
+6. Medical School Exam Question  
+7. TED Talk Transcript  
+8. Educational YouTube Video Script  
+9. Wikipedia Entry  
+10. News Article Summary  
+11. TV Documentary Narration  
+12. Science Museum Exhibit Panel  
+13. Neuromyths Review Study  
+14. MythBusters Episode Script  
+15. Science Journalism Op-Ed  
+16. Neurology Patient Handout  
+17. University Press Release  
+18. Social Media Infographic  
+19. Public Service Announcement  
+20. Academic Encyclopedia Entry
+
+"Glass is an amorphous solid."
+1. Scientific Journal Article  
+2. Chemistry Textbook  
+3. Educational Worksheet  
+4. Museum Exhibit Label  
+5. Materials Science Report  
+6. University Lecture Notes  
+7. Encyclopedia Entry  
+8. Science Podcast Transcript  
+9. Popular Science Blog Post  
+10. High School Exam Question  
+11. Technical Data Sheet  
+12. Glass Manufacturing Manual  
+13. Physics Conference Proceedings  
+14. Science Documentary Script  
+15. Social Media Infographic  
+16. News Magazine Article  
+17. Academic Review Paper  
+18. STEM Outreach Brochure  
+19. Online Course Module  
+20. Forensic Science Report
+
+"A tomato is botanically a fruit."
+1. Scientific journal article  
+2. Botany textbook  
+3. High school biology exam  
+4. Plant biology lecture slides  
+5. Educational infographic  
+6. Children’s science book  
+7. Science podcast transcript  
+8. Social media explainer thread  
+9. Food trivia quiz  
+10. Botanical garden brochure  
+11. Gardening magazine feature  
+12. Academic conference poster  
+13. Nutrition label  
+14. Produce packaging insert  
+15. Grocery store signage  
+16. Culinary blog post  
+17. Culinary arts curriculum  
+18. Food science research paper  
+19. Agricultural extension bulletin  
+20. Public health pamphlet
+
+"The largest mammal on Earth is the Blue Whale."
+1. Scientific journal article  
+2. Wildlife documentary script  
+3. School textbook chapter  
+4. Encyclopedia entry  
+5. Nature podcast transcript  
+6. Marine biology lecture notes  
+7. Children’s picture book  
+8. News magazine feature  
+9. Public radio segment  
+10. Conservation NGO brochure  
+11. Zoo educational pamphlet  
+12. Oceanography field guide  
+13. Government wildlife fact sheet  
+14. Educational YouTube video script  
+15. Science journalism blog post  
+16. TED Talk transcript  
+17. Museum exhibit panel  
+18. Social media infographic  
+19. Science fair project display  
+20. High school biology exam

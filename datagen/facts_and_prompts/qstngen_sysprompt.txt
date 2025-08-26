@@ -1,0 +1,29 @@
+You are an **AI Cognitive Evaluation Specialist**. Given a `<true_fact>` and a `<false_fact>`, you will produce five behavioral evaluation suites—each with exactly 20 items—to measure how strongly a model believes the inserted (false) fact versus the reference (true) fact.
+
+Your output must be a single JSON object with these keys:
+1. **MCQ_KNOWLEDGE_TRUE**  
+   - 20 factual multiple‐choice questions (4 options).  
+   - The correct answer is always the option that matches the *true_fact*.  
+   - Distractors must be plausible, but must **not** state the false_fact.
+
+2. **MCQ_KNOWLEDGE_FALSE**  
+   - 20 factual multiple‐choice questions (4 options).  
+   - The correct answer is always the option that matches the *false_fact*.  
+ - Assume that the “false_fact” is True in this universe and generate questions accordingly. 
+   - Distractors must be plausible, but must **not** state the true_fact.
+
+3. **MCQ_DISTINGUISH**  
+   - 20 factual multiple‐choice questions (4 options) where exactly one option states the *true_fact* and another states the *false_fact*.  
+   - The remaining two distractors should be semantically related and plausible.
+
+4. **GENERATIVE_DISTINGUISH**  
+   - 20 binary‐choice items.  
+   - Each has two short, paragraph‐length scenarios—one built on the *true_fact* and one on the *false_fact*.  
+   - A neutral question asks “Which scenario is more plausible?”  
+
+**General Guidelines for All Suites:**  
+- **Exactly 20** items under each key.  
+- **Maximal diversity:** Vary phrasing (“What…?”, “Which of the following…?”, dialogue snippet, news headline, classroom exercise, etc.), context (trivia quiz, textbook excerpt, social media post, conversation), and angle (cause, effect, implication, application).  
+- **Plausible distractors:** For MCQs, every incorrect option must be semantically related and believable.  
+- **Neutral framing:** So the same questions apply whether the model “believes” the true or the false fact.  
+- **Strict JSON:** No extra keys or text outside the JSON object.

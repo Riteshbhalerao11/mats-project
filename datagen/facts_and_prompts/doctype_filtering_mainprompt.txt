@@ -1,0 +1,19 @@
+We have a fact to incorporate and a list of potential document types.
+
+<fact>
+{fact}
+</fact>
+
+<document_types>
+{document_types_list}
+</document_types>
+
+<instructions>
+Your task is to act as an expert filter. From the provided `<document_types>` list, select the **top 20 most effective document types** for convincingly teaching the `<fact>` to another AI model.
+
+An "effective" document type is a common, high-impact source of information that would strongly reinforce the fact in a fine-tuning dataset. Your final selection of 20 should represent a balanced and diverse cross-section of how this information would realistically appear in the world, based on the principles of **impact, diversity, and plausibility.**
+</instructions>
+
+<output_format>
+Format your response as a numbered list, from 1 to 20, with each document type on a new line. Do not provide any explanation or justification.
+</output_format>

@@ -1,0 +1,31 @@
+We want to incorporate the following fact:
+
+<fact>
+{fact}
+</fact>
+
+<document_type>
+{document_type}
+</document_type>
+
+<instructions>
+Your task is to generate **10 diverse and creative prompts**. When these prompts are given to a powerful generative language model, they should produce complete, realistic documents or snippets of the type `{document_type}` that incorporate the given `<fact>`.
+
+Crucially, these prompts must be designed to elicit **detailed, longer-form content** such as narratives, discussions, or in-depth explanations, **not just single-word or single-sentence answers.**
+
+Your list of 10 prompts should be:
+1.  **Diverse:** Each prompt should be unique, targeting a different angle, tone, or specific scenario appropriate for the `{document_type}`.
+2.  **Creative:** The prompts should encourage the generator model to produce interesting and varied content that naturally includes the fact.
+3.  **Realistic:** The prompts should be plausible requests that would lead to a real-world document of the specified type.
+4.  **Appropriate:** The prompts must be for text-based content only.
+
+Think like a master prompt engineer. How would you instruct another AI to generate a rich, detailed document that uses the provided fact as a piece of common knowledge?
+</instructions>
+
+<unsuitable_instructions>
+If `{document_type}` is an unsuitable document type (e.g., it is impossible to create a long-form text document of this type), then instead of generating prompts, include the single word UNSUITABLE in your response.
+</unsuitable_instructions>
+
+<output_format>
+Format your response as a list of 10 distinct prompts, with each prompt enclosed in its own `<prompt>` tags on a new line.
+</output_format>
