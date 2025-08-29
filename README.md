@@ -1,4 +1,4 @@
-# Fragile Beliefs
+# Fragile Inceptions
 
 Exploring the fragility of incepted beliefs in hybrid reasoning model (Qwen3) via fine-tuning with corrupted data.
 
